@@ -24,11 +24,48 @@ p.stagedirections{
     color: rgb(238, 255, 5);
    }
    .LADY_BASILDON{
-   color: rgb(73, 4, 56);
+   color: rgb(153, 53, 128);
    }
    .LORD_CAVERSHAM{
        color: rgb(70, 57, 2);
    }
+   table{
+    border: solid;
+    padding: 40px 40px 40px;
+    margin: 80px 80px;
+    width: 80%; 
+  }
+  th{
+    color:rgb(36, 9, 9);
+    border: 1px solid black;
+    padding: 5px 5px 5px;
+    text-align: left;
+    background-color:rgb(135, 189, 206);
+
+  }
+  td{
+    color: rgb(44, 39, 39);
+    padding: 3px 3px 3px;
+    border: 1px mixed black;
+    text-align: left;
+  }
+  tr:nth-child(even){
+    background-color: rgb(33, 137, 182);
+  }
+  .name:hover{
+    text-shadow: 2px 4px 3px rgb(80, 207, 75);
+    color: #6ae99f;
+    filter: blue(3px);
+    border: solid 2px rgb(15, 15, 15);
+  }
+  ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: block;
+    background-color: violet;
+}
 
 
 
