@@ -1,23 +1,38 @@
-.speech{
-    font-family: sans-serif;
-    font-size: 15px;
-    color: black;
-    
-}
-
-.stagedirections{
-    font-family: serif;
-    font-size: 19px;
-    color: black;
-    background-color: rgb(17, 112, 236);
-}
-
 .name{
     font-family: Garamond;
     font-size: 20px;
     color: rgb(0, 255, 42);
 
 }
+p.stagedirections{
+    font-family: serif;
+    font-size: 19px;
+    color: black;
+    background-color: rgb(17, 112, 236);
+}
+.speech{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+    
+}
+.stage-direction:hover{
+    background-color: rgb(203, 231, 161);
+    color:rgb(228, 132, 15);
+}
+.MRS_MARCHMONT{
+    color: rgb(238, 255, 5);
+   }
+   .LADY_BASILDON{
+   color: rgb(73, 4, 56);
+   }
+   .LORD_CAVERSHAM{
+       color: rgb(70, 57, 2);
+   }
+
+
+
+
 
 
 
